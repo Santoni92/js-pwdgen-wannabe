@@ -1,4 +1,4 @@
-console.log('JS Ok');
+console.log('JS Ok');   //istruzione che serve per verificare che il file js esterno sia stato collegato correttamente al file html, inserire sempre questa verifica
 
 //costante che serve per memorizzare il nome richiesto all'utente tramite prompt() (usare la convenzione camel case per i nomi composti)
 const nomeUtente = prompt('Inserisci il tuo nome:');   /* dichiaro ed assegno il valore alla costante chiedendo all'utente di inserire il valore;
@@ -22,6 +22,6 @@ document.writeln(nomeUtente + cognomeUtente + colorePreferito + 21); //istruziop
                                                                       nell'argomento di writeln vi sono stringhe e quindi
                                                                        il numero è automaticamente trattato come stringa*/
 
-                                                                       
+
 
 
