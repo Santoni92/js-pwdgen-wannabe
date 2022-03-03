@@ -23,5 +23,5 @@ document.writeln(nomeUtente + cognomeUtente + colorePreferito + 21); //istruziop
                                                                        il numero è automaticamente trattato come stringa*/
 
 
-
+document.getElementById('commento').innerHTML = 'Conservare <strong>fuori</strong> dalla portata degli altri utenti';
 
